@@ -103,7 +103,7 @@ body {
 
 
 .portfolio {
-  padding: 0%;
+  padding: 5%;
   display: grid;
   height: 100%;
   grid-template-rows: repeat(6,1fr);
@@ -138,7 +138,8 @@ body {
   &.tall {
     grid-row: span 2;
     grid-column: span 3;
-    background-image: url(drukarka.png);
+    background-image: url(drukarka.png );
+    background-size: cover;
   }
 
   &.wide {
