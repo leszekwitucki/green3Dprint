@@ -7,11 +7,12 @@
 * projektowanie elementów drukarki 3D w programie 'Sketchup Make'
 * drukowanie tych elementów
 
-Zaprojektowane przeze mnie drukarka działa, lecz ciągle jest przezemne udoskonalana.
+Zaprojektowane przeze mnie drukarka działa, lecz wciąż jest udoskonalana.
+
 
 Tabela:
 
-Parametry aktualne , planowane
+(Parametry -  aktualne , planowane)
 
 
 (ściągnąć coś z netu)
@@ -28,11 +29,17 @@ Cennik usług:
 (ściągnąć coś z netu)
 
 
-* Kreta
-* Indie
+## O nazwie strony
 
-## Ciekawe miejsca
+Zielony jest moim ulubionym kolorem wydruków - stąd pomysł na nazwę strony
 
-Tabelka z cenami hotelowymi.
+
 
 ## Zdjęcia
+
+
+Jest kilka aspektów, które należałoby zobrazować zdjęciami:
+
+*drukarka
+*Wydruki
+*projekty elementów do druku
