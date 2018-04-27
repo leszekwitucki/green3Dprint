@@ -1,8 +1,32 @@
-# Drukarki
+# Drukarki 3D
 
 * https://leszekwitucki.github.io/green3Dprint[Moje portfolio]
 
-## Wycieczki
+## Moje hobby
+
+* projektowanie elementów drukarki 3D w programie 'Sketchup Make'
+* drukowanie tych elementów
+
+Zaprojektowane przeze mnie drukarka działa, lecz ciągle jest przezemne udoskonalana.
+
+Tabela:
+
+Parametry aktualne , planowane
+
+
+(ściągnąć coś z netu)
+
+
+
+Tabela:
+
+Cennik usług:
+
+
+(ściągnąć coś z netu)
+
+(ściągnąć coś z netu)
+
 
 * Kreta
 * Indie
