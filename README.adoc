@@ -26,12 +26,13 @@ Tabela:
 
 Tabela:
 
-Cennik usług: 1000
+Cennik usług: 
+- Minimalna cena: 20 zł
+- Godzina druku: 20 zł
+- 1 cm3 przepływu materiału: 1 zł
+- 1 gram ABS lub PLA: 0.10 zł
+- Inne materiały: indywidualnie
 
-
-(ściągnąć coś z netu)
-
-(ściągnąć coś z netu)
 
 
 ## O nazwie strony
