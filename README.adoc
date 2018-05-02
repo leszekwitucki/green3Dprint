@@ -42,7 +42,7 @@ Zielony jest moim ulubionym kolorem wydruków - stąd pomysł na nazwę strony
 
 
 ## Zdjęcia
-image::DSC_0012.JPG[]
+image::images/DSC_0014.JPG[]
 
 ## Zastosowania Druku 3D
 * [x] <http://www.3dhatchery.pl/cennik.html>
