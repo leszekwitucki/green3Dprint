@@ -2,6 +2,10 @@
 
 * https://leszekwitucki.github.io/green3Dprint[Moje portfolio]
 
+## O nazwie strony
+
+Zielony jest moim ulubionym kolorem wydruków - stąd pomysł na nazwę strony
+
 ## Moje hobby
 
 = projektowanie elementów drukarki 3D w programie 'Sketchup Make'
@@ -10,19 +14,7 @@
 
 Zaprojektowane przeze mnie drukarka działa, lecz wciąż jest udoskonalana.
 
-
-
-
 # Usługi
-
-Tabela:
-
-(Parametry -  aktualne , planowane)
-
-
-(ściągnąć coś z netu)
-
-
 
 |===
 | Wyszczególnienie	|  kwota
@@ -35,19 +27,14 @@ Tabela:
 Tabela. 1. Cennik usług
 
 
-## O nazwie strony
-
-Zielony jest moim ulubionym kolorem wydruków - stąd pomysł na nazwę strony
-
-
-
 ## Zdjęcia
 image::images/DSC_0014.JPG[DSC,350,250]
 
 ## Zastosowania Druku 3D
-* [x] <http://www.3dhatchery.pl/cennik.html>
-
-* [x] <http://www.gdynia.pl>
+* [x] <https://www.optima-md.com/blog/drukarka-3d-zastosowanie-jak-dziala-projekty-z-cukru-eksploatacja,468,1.html>
+* [x] <http://www.akademiaprodukcji.pl/zastosowanie-drukarek-3d/>
+* [x] <https://drukarki3d.pl/zastosowania/>
+* [x] <http://drukw3d.com/zastosowanie-druk-3d/>
 
 Jest kilka aspektów, które należałoby zobrazować zdjęciami:
 
