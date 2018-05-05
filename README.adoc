@@ -18,7 +18,7 @@ Zielony jest moim ulubionym kolorem wydruków - stąd pomysł na nazwę strony :
 image::images/DSC_0014.JPG[DSC,350,250,float="left"]
 image::images/DSC_0018.JPG[DSC,350,250]
 image::images/DSC_0020.JPG[DSC,350,250,float="left"]
-image::images/DSC_0023.JPG[DSC,350,250,float="right"]
+image::images/DSC_0023.JPG[DSC,350,250]
 
 
 
