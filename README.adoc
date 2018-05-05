@@ -10,7 +10,7 @@ Zielony jest moim ulubionym kolorem wydruków - stąd pomysł na nazwę strony
 
 = projektowanie elementów drukarki 3D w programie 'Sketchup Make'
 
-= drukowanie tych elementów
+(drukowanie tych elementów)
 
 Zaprojektowane przeze mnie drukarka działa, lecz wciąż jest udoskonalana.
 
