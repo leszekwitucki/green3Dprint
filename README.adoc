@@ -14,7 +14,11 @@ Zielony jest moim ulubionym kolorem wydruków - stąd pomysł na nazwę strony
 
 Zaprojektowane przeze mnie drukarka działa, lecz wciąż jest udoskonalana.
 
-# Usługi
+## Zdjęcia
+
+image::images/DSC_0014.JPG[DSC,350,250]
+
+## Usługi
 
 |===
 | Wyszczególnienie	|  kwota
@@ -27,19 +31,17 @@ Zaprojektowane przeze mnie drukarka działa, lecz wciąż jest udoskonalana.
 Tabela. 1. Cennik usług
 
 
-## Zdjęcia
-image::images/DSC_0014.JPG[DSC,350,250]
-
 ## Zastosowania Druku 3D
+
 * [x] <https://www.optima-md.com/blog/drukarka-3d-zastosowanie-jak-dziala-projekty-z-cukru-eksploatacja,468,1.html>
 * [x] <http://www.akademiaprodukcji.pl/zastosowanie-drukarek-3d/>
 * [x] <https://drukarki3d.pl/zastosowania/>
 * [x] <http://drukw3d.com/zastosowanie-druk-3d/>
 
-Jest kilka aspektów, które należałoby zobrazować zdjęciami:
+## Korzyści z posiadania drukarki 3D:
 
-= Drukarka
-
-= Wydruki
-
-= Projekty elementów do druku
+** Posiadanie orginalnych przedmiotów.
+** Praktyczne zastosowanie wydruków w domu.
+** Spersonalizowane prezenty dla innych.
+** Nauka projektowania w parktyce.
+** Duma z samodzielnie zaprojektowanego przedmiotu. 
