@@ -2,17 +2,17 @@
 
 * https://leszekwitucki.github.io/green3Dprint[Moje portfolio]
 
-## O nazwie strony
-
-Zielony jest moim ulubionym kolorem wydruków - stąd pomysł na nazwę strony
 
 ## Moje hobby
 
 = projektowanie elementów drukarki 3D w programie 'Sketchup Make'
 
-(drukowanie tych elementów)
-
 Zaprojektowane przeze mnie drukarka działa, lecz wciąż jest udoskonalana.
+
+## O nazwie strony
+
+Zielony jest moim ulubionym kolorem wydruków - stąd pomysł na nazwę strony.
+
 
 ## Zdjęcia
 
@@ -27,7 +27,7 @@ image::images/DSC_0023.JPG[DSC,350,250]
 | Wyszczególnienie	|  kwota
 | Minimalna cena	| 20 zł
 | Godzina druku | 20 zł
-| 1 cm3 przepływu materiału | 1 zł
+| 1 cm^3^ przepływu materiału | 1 zł
 | 1 gram ABS lub PLA | 0,10 zł
 | Inne materiały | indywidualnie
 |===
