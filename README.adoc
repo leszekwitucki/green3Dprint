@@ -17,6 +17,9 @@ Zaprojektowane przeze mnie drukarka działa, lecz wciąż jest udoskonalana.
 ## Zdjęcia
 
 image::images/DSC_0014.JPG[DSC,350,250]
+image::images/DSC_0018.JPG[DSC,350,250]
+image::images/DSC_0020.JPG[DSC,350,250]
+image::images/DSC_0023.JPG[DSC,350,250]
 
 ## Usługi
 
