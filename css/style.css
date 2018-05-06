@@ -5,7 +5,7 @@ body {
   background: #353535;
   color: #c4c4c4;
   font-family: sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.8rem;
   line-height: 1.45;
   display: flex;
   flex-wrap: wrap; }
@@ -36,6 +36,17 @@ body {
       display: block;
       margin: 7vh 0; } }
 
+.nav-item2 {
+  color: #353535;
+  text-decoration: none;
+  font-size: 1.9rem;
+  display: inline-block;
+  margin-right: 2em; }
+  @media (min-width: 1500px) {
+    .nav-item2 {
+      display: block;
+      margin: 7vh 0; } }
+
 .active {
   color: #c4c4c4; }
 
@@ -53,10 +64,10 @@ body {
   height: 100%;
   grid-template-rows: repeat(6, 1fr);
   grid-template-columns: repeat(5, 1fr);
-  grid-gap: 0px; }
+  grid-gap: 20px; }
 
 .portfolio-item {
-  background-color: #f96855;
+  background-color: #556B2F;
   color: #353535;
   font-weight: 700;
   display: flex;

@@ -13,7 +13,7 @@ $black: #353535;
 $gray: #556B2F;
 
 
-
+$odsylacze-font-color: $gray;
 
 $medium-gray: #737373;
 $light-gray: #c4c4c4;
@@ -41,7 +41,7 @@ body {
   background: $body-backgraund;
   color: $main-font-color;
   font-family: sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.8rem;
   line-height: 1.45;
   display: flex;
   flex-wrap: wrap;
@@ -51,6 +51,12 @@ body {
 //===========
 //Navigation
 //===========
+
+
+
+
+
+
 
 .sidebar {
   background: $menu-backgraund;
@@ -83,6 +89,20 @@ body {
     margin: 7vh 0;
   }
 }
+
+.nav-item2 {
+  color: $black;
+  text-decoration: none;
+  font-size: 1.9rem;
+  display: inline-block;
+  margin-right: 2em;
+  @media (min-width: 1500px) {
+    display: block;
+    margin: 7vh 0;
+  }
+}
+
+
 
 .active {
   color: $menu-active-color;
@@ -118,10 +138,10 @@ body {
   height: 100%;
   grid-template-rows: repeat(6,1fr);
   grid-template-columns: repeat(5,1fr);
-  grid-gap: 0px;
+  grid-gap: 20px;
 }
 .portfolio-item {
-  background-color: $accent;
+  background-color: $gray;
   color: $body-backgraund;
   font-weight: $font-bold;
   display: flex;
@@ -163,6 +183,7 @@ body {
     background-image: url(../images/drukarka.png );
     background-size: cover;
     background-position: center;
+
   }
 
   &.wide {
