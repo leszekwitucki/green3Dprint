@@ -103,12 +103,12 @@ body {
 
 
 .portfolio {
-  padding: 5%;
+  padding: 2%;
   display: grid;
   height: 100%;
   grid-template-rows: repeat(6,1fr);
   grid-template-columns: repeat(5,1fr);
-  grid-gap: 20px;
+  grid-gap: 10px;
 }
 .portfolio-item {
   background-color: $accent;
