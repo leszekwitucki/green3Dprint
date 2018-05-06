@@ -4,16 +4,16 @@
 
 ## Moje hobby
 
-= projektowanie elementów drukarki 3D w programie 'Sketchup Make'
+.projektowanie elementów drukarki 3D w programie 'Sketchup Make'
 
-= drukowanie tych elementów
+.drukowanie tych elementów
 
 Zaprojektowane przeze mnie drukarka działa, lecz wciąż jest udoskonalana.
 
 
 
 
-# Usługi
+## Usługi
 
 Tabela:
 
@@ -45,8 +45,6 @@ Zielony jest moim ulubionym kolorem wydruków - stąd pomysł na nazwę strony
 
 Jest kilka aspektów, które należałoby zobrazować zdjęciami:
 
-= Drukarka
-
-= Wydruki
-
-= Projekty elementów do druku
+. Drukarka
+. Wydruki
+. Projekty elementów do druku
