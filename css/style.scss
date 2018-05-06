@@ -7,7 +7,14 @@ $font-bold: 700;
 
 //colors
 $black: #353535;
-$gray: #4f4f4f;
+//$gray: #4f4f4f;
+
+
+$gray: #556B2F;
+
+
+
+
 $medium-gray: #737373;
 $light-gray: #c4c4c4;
 $orange: #f96855;
@@ -92,6 +99,9 @@ body {
   flex: 1 1 80%;
   min-height: 100vh;
   //background-color: #000000;
+  background-image: url(../images/wieleczesci.png );
+  background-size: cover;
+  background-position: center;
 }
 
 
@@ -108,7 +118,7 @@ body {
   height: 100%;
   grid-template-rows: repeat(6,1fr);
   grid-template-columns: repeat(5,1fr);
-  grid-gap: 10px;
+  grid-gap: 0px;
 }
 .portfolio-item {
   background-color: $accent;
@@ -121,24 +131,36 @@ body {
   &.small {
     grid-row: span 1;
     grid-column: span 1;
+    background-image: url(../images/DSC_0017.JPG );
+    background-size: cover;
+    background-position: center;
   }
-  &.medium {
+  &.projektowanie {
     grid-row: span 3;
     grid-column: span 3;
+    background-image: url(../images/zet.png );
+    background-size: cover;
+    background-position: center;
   }
-  &.medium2 {
+  &.wydruki2 {
     grid-row: span 3;
     grid-column: span 2;
+    background-image: url(../images/woz.JPG );
+    background-size: cover;
+    background-position: center;
   }
-  &.large {
+  &.wydruki1 {
     grid-row: span 4;
     grid-column: span 2;
+    background-image: url(../images/czesci.JPG );
+    background-size: cover;
+    background-position: center;
   }
 
-  &.tall {
+  &.drukarka {
     grid-row: span 2;
     grid-column: span 3;
-    background-image: url(drukarka.png );
+    background-image: url(../images/drukarka.png );
     background-size: cover;
     background-position: center;
   }

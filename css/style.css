@@ -11,7 +11,7 @@ body {
   flex-wrap: wrap; }
 
 .sidebar {
-  background: #4f4f4f;
+  background: #556B2F;
   flex: 1 1 20%;
   min-width: 300px;
   padding: 3em; }
@@ -42,7 +42,10 @@ body {
 .main-content {
   padding: 10%;
   flex: 1 1 80%;
-  min-height: 100vh; }
+  min-height: 100vh;
+  background-image: url(../images/wieleczesci.png);
+  background-size: cover;
+  background-position: center; }
 
 .portfolio {
   padding: 2%;
@@ -50,7 +53,7 @@ body {
   height: 100%;
   grid-template-rows: repeat(6, 1fr);
   grid-template-columns: repeat(5, 1fr);
-  grid-gap: 10px; }
+  grid-gap: 0px; }
 
 .portfolio-item {
   background-color: #f96855;
@@ -61,20 +64,32 @@ body {
   align-items: center; }
   .portfolio-item.small {
     grid-row: span 1;
-    grid-column: span 1; }
-  .portfolio-item.medium {
+    grid-column: span 1;
+    background-image: url(../images/DSC_0017.JPG);
+    background-size: cover;
+    background-position: center; }
+  .portfolio-item.projektowanie {
     grid-row: span 3;
-    grid-column: span 3; }
-  .portfolio-item.medium2 {
+    grid-column: span 3;
+    background-image: url(../images/zet.png);
+    background-size: cover;
+    background-position: center; }
+  .portfolio-item.wydruki2 {
     grid-row: span 3;
-    grid-column: span 2; }
-  .portfolio-item.large {
+    grid-column: span 2;
+    background-image: url(../images/woz.JPG);
+    background-size: cover;
+    background-position: center; }
+  .portfolio-item.wydruki1 {
     grid-row: span 4;
-    grid-column: span 2; }
-  .portfolio-item.tall {
+    grid-column: span 2;
+    background-image: url(../images/czesci.JPG);
+    background-size: cover;
+    background-position: center; }
+  .portfolio-item.drukarka {
     grid-row: span 2;
     grid-column: span 3;
-    background-image: url(drukarka.png);
+    background-image: url(../images/drukarka.png);
     background-size: cover;
     background-position: center; }
   .portfolio-item.wide {
