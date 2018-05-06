@@ -1,0 +1,68 @@
+= Drukarki 3D
+
+* https://leszekwitucki.github.io/green3Dprint[Moje portfolio]
+
+
+== Moje hobby
+
+= projektowanie elementów drukarki 3D w programie 'Sketchup Make'
+
+Zaprojektowane przeze mnie drukarka działa, lecz wciąż jest udoskonalana.
+
+== O nazwie strony
+
+Zielony jest moim ulubionym kolorem wydruków - stąd pomysł na nazwę strony :) 
+
+== Zdjęcia
+
+image::images/DSC_0014.JPG[DSC,350,250,float="left"]
+image::images/DSC_0018.JPG[DSC,350,250,float="left"]
+image::images/DSC_0020.JPG[DSC,350,250,float="left"]
+image::images/DSC_0023.JPG[DSC,350,250]
+
+
+
+
+== Usługi
+
+|===
+| Wyszczególnienie	|  kwota
+| Minimalna cena	| 20 zł
+| Godzina druku | 20 zł
+| 1 cm^3^ przepływu materiału | 1 zł
+| 1 gram ABS lub PLA | 0,10 zł
+| Inne materiały | indywidualnie
+|===
+Tabela. 1. Cennik usług
+
+
+== Zastosowania Druku 3D
+
+* [x] <https://www.optima-md.com/blog/drukarka-3d-zastosowanie-jak-dziala-projekty-z-cukru-eksploatacja,468,1.html>
+* [x] <http://www.akademiaprodukcji.pl/zastosowanie-drukarek-3d/>
+* [x] <https://drukarki3d.pl/zastosowania/>
+* [x] <http://drukw3d.com/zastosowanie-druk-3d/>
+
+== Korzyści z posiadania drukarki 3D
+
+** Posiadanie orginalnych przedmiotów.
+** Praktyczne zastosowanie wydruków w domu.
+** Spersonalizowane prezenty dla innych.
+** Nauka projektowania w parktyce.
+** Duma z samodzielnie zaprojektowanego przedmiotu. 
+
+== Historia druku 3D
+
+. Opatentowanie STEREOLITOGRAFII przez C.Hulla'a - 1986r.
+. Pierwsza drukarka 3D do technologii FDM - 1991r.
+. Hodowla komórek na rusztowaniach z druku 3D - 1999r.
+. Z-CORP wprowadza drukarkę 3D do druku w kolorze - 2000r.
+. Pierwsza biurkowa drukarka 3D firmy SOLIDIMENSION - 2001r.
+. Początek projektu REPRAP - maszyn samoreplikujących - 2005r.
+. Pierwsza proteza wydrukowana na drukarce 3D - 2008r.
+. Cody Wilson drukuje broń palną - 2013r.
+. Drukowanie 3D w kosmosie (ISS) - 2014r.
+. Nowa, szybka technologia druku 3D - 2015r. 
+
+== Kontakt
+Leszek Witucki tel.: 503-......
